@@ -27,20 +27,7 @@ A modern and interactive Grade Calculator web application built with Python and 
 
 * Python 3
 * Streamlit
-
----
-
-## 📂 Project Structure
-
-```text
-grade_calculator/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
+  
 ---
 
 ## 🚀 Installation
@@ -118,16 +105,6 @@ python -m streamlit run app.py
 
 ---
 
-## 📸 Screenshot
-
-Add a screenshot of your application here.
-
-```text
-screenshots/grade_calculator.png
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
@@ -141,11 +118,5 @@ Feel free to fork this repository and submit a pull request.
 This project is open-source and available under the MIT License.
 
 ---
-
-## 👨‍💻 Author
-
-**Hemant Madavi**
-
-Python Developer | Streamlit Enthusiast
 
 If you like this project, give it a ⭐ on GitHub.
