@@ -4,6 +4,11 @@ A modern and interactive Grade Calculator web application built with Python and 
 
 ---
 
+## 🌐 Live Demo
+👉 [Try it here on Render](https://first-calculator-bth8.onrender.com)
+
+[![Live Demo](https://img.shields.io/badge/Render-Live%20App-blue)](https://first-calculator-bth8.onrender.com)
+
 ## 📌 Features
 
 * Simple and user-friendly interface
