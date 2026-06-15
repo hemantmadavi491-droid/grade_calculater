@@ -4,10 +4,11 @@ A modern and interactive Grade Calculator web application built with Python and 
 
 ---
 
-## 🌐 Live Demo
-👉 [Try it here on streamlit]([https://first-calculator-bth8.onrender.com](https://gradecalculater-476lqeik7oquxuwav84dth.streamlit.app/))
+👉 **Try the Grade Calculator Live:**
+[https://gradecalculater-476lqeik7oquxuwav84dth.streamlit.app/](https://gradecalculater-476lqeik7oquxuwav84dth.streamlit.app/)
 
-[![Live Demo](https://img.shields.io/badge/Render-Live%20App-blue)](https://first-calculator-bth8.onrender.com)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit\&logoColor=white)](https://gradecalculater-476lqeik7oquxuwav84dth.streamlit.app/)
+
 
 ## 📌 Features
 
