@@ -5,7 +5,7 @@ A modern and interactive Grade Calculator web application built with Python and 
 ---
 
 👉 **Try the Grade Calculator Live:**
-[https://gradecalculater-476lqeik7oquxuwav84dth.streamlit.app/](https://gradecalculater-476lqeik7oquxuwav84dth.streamlit.app/)
+[https://gradecalculater-476lqeik7oquxuwav84dth.streamlit.app/]
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit\&logoColor=white)](https://gradecalculater-476lqeik7oquxuwav84dth.streamlit.app/)
 
