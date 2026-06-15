@@ -9,6 +9,9 @@ A modern and interactive Grade Calculator web application built with Python and 
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit\&logoColor=white)](https://gradecalculater-476lqeik7oquxuwav84dth.streamlit.app/)
 
+## 📸 Project Preview
+
+<img width="1432" height="852" alt="Screenshot 2026-06-06 093205" src="https://github.com/user-attachments/assets/2491b6a3-265c-4dc0-8a46-9284d4f62165" />
 
 ## 📌 Features
 
